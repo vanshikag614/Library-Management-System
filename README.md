@@ -5,8 +5,8 @@ It allows both the admin and the student to search for the desired book. Any err
 of information and thus there is no need to keep manual track of this information which thereby avoids chances of mistakes.
 FEATURES AND DESCRIPTION:
 It includes the information such as:
-* Adding book information
+*Adding book information
 *Display book information 
 *List all books of given author
-* List the title of specified book
+List the title of specified book
 *List the count of books in the library
